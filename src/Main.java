@@ -1,8 +1,4 @@
-import pro.sky.java.course1.CourseWork.Counter;
 import pro.sky.java.course1.CourseWork.Employee;
-
-import java.beans.PropertyEditorSupport;
-import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
@@ -33,6 +29,5 @@ public class Main {
         System.out.println("Cреднее значение зарплат -- " + " " + Employee.mediumSalary(employees));
         System.out.println("Cотрудник с минимальной зарплатой -- "+ Employee.minSalary(employees));
         System.out.println("Cотрудника с максимальной зарплатой -- " + Employee.maxSalary(employees));
-
     }
 }
