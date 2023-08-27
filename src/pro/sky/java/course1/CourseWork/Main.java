@@ -1,3 +1,5 @@
+package pro.sky.java.course1.CourseWork;
+
 import pro.sky.java.course1.CourseWork.Employee;
 
 public class Main {
